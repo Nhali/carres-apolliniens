@@ -275,13 +275,11 @@ while mode!= 0:
 
     titre_general()
     print ()
-    print ( " 1. Dans l'ordre normal par ligne du carré")
+    print ( " Remplissage du carré de départ :")
+    print ( " 1. Dans l'ordre normal par ligne du carré (remplissage traité dans le dossier)")
     print ( " 2. Dans l'ordre normal par ligne de quadrant")
     print ( " 3. Tous les nombres impairs, puis les pairs")
     print ( " 4. Avec lignes de nombres impairs et pairs alternées")
-    print ( " 5. Ordre normal en sautant une case à chaque fois dans le carré")
-    print ( " 6. Par 2 colonnes à la fois avec symétrie dans chaque quadrant")
-    print ( " 7. Ordre normal en sautant une case et par paires symétriques de somme n²")
     print ( "                   0. Sortie du programme")
     print ()
     try:
